@@ -1,6 +1,6 @@
 # 🏡 Analyse du Marché Immobilier - Projet Python Avancé
 
-**Auteurs** : Ibrahima BA, Mahamat Nour MAHAMAT SULTAN, Moustapha MENDY
+**Auteurs** : Ibrahima BA, Mahamat
 
 ## 📋 Description
 
